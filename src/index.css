@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+
+@theme {
+    --color-blue-prod: #0b1963;
+    --color-yellow-prod: #f4ac04;
+    --color-red-prod: #c10007;
+    --color-green-prod: #497d00;
+}
